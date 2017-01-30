@@ -26,7 +26,8 @@
 # coding: utf-8
 
 # In[1]:
-
+import scraperwiki
+import lxml.html
 import requests
 import pandas as pd
 
