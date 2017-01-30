@@ -29,8 +29,6 @@
 import scraperwiki
 import lxml.html
 import requests
-import pandas as pd
-
 
 # In[2]:
 
